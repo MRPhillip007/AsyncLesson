@@ -10,21 +10,10 @@ namespace AsyncHomework
 
         static async Task Main(string[] args)
         {
-
-            //HttpWebRequest request = (HttpWebRequest) WebRequest.Create(URL);
-            //HttpWebResponse response = (HttpWebResponse) request.GetResponse();
-
-            //using (StreamReader reader = new StreamReader(response.GetResponseStream()))
-            //{
-            //    string data = reader.ReadToEnd();
-            //    WeatherResponse ?weatherResponse = JsonConvert.DeserializeObject<WeatherResponse>(data);
-            //}
             Console.Write("Enter city name: ");
             cityName = Console.ReadLine()!;
             
-
             await GetTempByCityAsync(URL, cityName);
-
         }
 
         static async Task GetTempByCityAsync(string url, string city)
