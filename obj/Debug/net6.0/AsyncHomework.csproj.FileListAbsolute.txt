@@ -1,0 +1,17 @@
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\bin\Debug\net6.0\AsyncHomework.exe
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\bin\Debug\net6.0\AsyncHomework.deps.json
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\bin\Debug\net6.0\AsyncHomework.runtimeconfig.json
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\bin\Debug\net6.0\AsyncHomework.dll
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\bin\Debug\net6.0\AsyncHomework.pdb
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\obj\Debug\net6.0\AsyncHomework.csproj.AssemblyReference.cache
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\obj\Debug\net6.0\AsyncHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\obj\Debug\net6.0\AsyncHomework.AssemblyInfoInputs.cache
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\obj\Debug\net6.0\AsyncHomework.AssemblyInfo.cs
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\obj\Debug\net6.0\AsyncHomework.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\obj\Debug\net6.0\AsyncHomework.dll
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\obj\Debug\net6.0\refint\AsyncHomework.dll
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\obj\Debug\net6.0\AsyncHomework.pdb
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\obj\Debug\net6.0\AsyncHomework.genruntimeconfig.cache
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\obj\Debug\net6.0\ref\AsyncHomework.dll
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\BettrootCourses\lesson23\HomeWork\AsyncHomework\obj\Debug\net6.0\AsyncHomework.csproj.CopyComplete
